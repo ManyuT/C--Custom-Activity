@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net461</TargetFrameworks>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Compile Remove="Utility\EncryptionUtility.cs" />
+  </ItemGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
+    <Reference Include="System.Runtime.Caching" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Activities" />
+    <Reference Include="System.ComponentModel.Composition" />
+  </ItemGroup>
+
+</Project>

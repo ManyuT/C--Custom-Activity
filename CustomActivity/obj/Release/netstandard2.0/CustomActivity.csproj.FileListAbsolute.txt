@@ -1,0 +1,3 @@
+C:\Users\abhimanyu.thite\source\repos\CustomActivity\obj\Release\netstandard2.0\CustomActivity.csproj.CoreCompileInputs.cache
+C:\Users\abhimanyu.thite\source\repos\CustomActivity\obj\Release\netstandard2.0\CustomActivity.AssemblyInfoInputs.cache
+C:\Users\abhimanyu.thite\source\repos\CustomActivity\obj\Release\netstandard2.0\CustomActivity.AssemblyInfo.cs

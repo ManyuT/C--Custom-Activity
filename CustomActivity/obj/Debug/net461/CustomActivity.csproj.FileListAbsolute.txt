@@ -1,0 +1,4 @@
+C:\Users\abhimanyu.thite\source\repos\CustomActivity\obj\Debug\net461\CustomActivity.csprojAssemblyReference.cache
+C:\Users\abhimanyu.thite\source\repos\CustomActivity\obj\Debug\net461\CustomActivity.csproj.CoreCompileInputs.cache
+C:\Users\abhimanyu.thite\source\repos\CustomActivity\obj\Debug\net461\CustomActivity.AssemblyInfoInputs.cache
+C:\Users\abhimanyu.thite\source\repos\CustomActivity\obj\Debug\net461\CustomActivity.AssemblyInfo.cs

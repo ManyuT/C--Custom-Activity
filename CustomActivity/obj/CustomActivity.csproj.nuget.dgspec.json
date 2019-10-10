@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abhimanyu.thite\\source\\repos\\CustomActivity\\CustomActivity.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abhimanyu.thite\\source\\repos\\CustomActivity\\CustomActivity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abhimanyu.thite\\source\\repos\\CustomActivity\\CustomActivity.csproj",
+        "projectName": "CustomActivity",
+        "projectPath": "C:\\Users\\abhimanyu.thite\\source\\repos\\CustomActivity\\CustomActivity.csproj",
+        "packagesPath": "C:\\Users\\abhimanyu.thite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abhimanyu.thite\\source\\repos\\CustomActivity\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhimanyu.thite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
